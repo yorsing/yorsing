@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 제 이름은 송다은입니다 👋
+저는 새로운 학문을 배우는 것을 좋아하는 사람입니다.
+
+현재 Computer Vision과 NLP에 관심이 많아 열심히 공부하고 있습니다. :fire:
 
 <!--
 **yorsing/yorsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
